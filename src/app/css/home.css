@@ -1,0 +1,10 @@
+.home img {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    z-index: -1;
+}
+
+.home h1 { 
+    text-align: center;
+}
